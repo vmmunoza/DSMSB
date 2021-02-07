@@ -3,4 +3,7 @@
 ### Simple animation of the temperature depence of the Diffuse Neutrino Background for Supermassive Stars 
 
 
-<img src="DSMSB.jpg" alt="drawing" height="500" width="1000"/>
+<img src="DSMSB.jpg" alt="drawing" height="500" width="1200"/>
+
+Details can be found here:
+https://arxiv.org/pdf/2102.00885.pdf
