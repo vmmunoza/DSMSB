@@ -1,7 +1,8 @@
 # DSMSB
 
 ### Simple animation of the temperature depence of the Diffuse Neutrino Background for Supermassive Stars 
-
+.. image:: https://img.shields.io/pypi/pyversions/python-binance.svg
+    :target: https://pypi.python.org/pypi/python-binance
 
 <img src="DSMSB.jpg" alt="drawing"/>
 
